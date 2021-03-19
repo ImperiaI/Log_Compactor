@@ -1,9 +1,0 @@
-c:\users\mod\documents\visual studio 2013\Projects\Log_Compactor\Log_Compactor\bin\Debug\Log_Compactor.exe.config
-c:\users\mod\documents\visual studio 2013\Projects\Log_Compactor\Log_Compactor\bin\Debug\Log_Compactor.exe
-c:\users\mod\documents\visual studio 2013\Projects\Log_Compactor\Log_Compactor\bin\Debug\Log_Compactor.pdb
-c:\users\mod\documents\visual studio 2013\Projects\Log_Compactor\Log_Compactor\obj\Debug\Log_Compactor.csprojResolveAssemblyReference.cache
-c:\users\mod\documents\visual studio 2013\Projects\Log_Compactor\Log_Compactor\obj\Debug\Log_Compactor.Properties.Resources.resources
-c:\users\mod\documents\visual studio 2013\Projects\Log_Compactor\Log_Compactor\obj\Debug\Log_Compactor.csproj.GenerateResource.Cache
-c:\users\mod\documents\visual studio 2013\Projects\Log_Compactor\Log_Compactor\obj\Debug\Log_Compactor.exe
-c:\users\mod\documents\visual studio 2013\Projects\Log_Compactor\Log_Compactor\obj\Debug\Log_Compactor.pdb
-C:\Users\Mod\documents\visual studio 2013\Projects\Log_Compactor\Log_Compactor\obj\Debug\Log_Compactor.Window.resources
